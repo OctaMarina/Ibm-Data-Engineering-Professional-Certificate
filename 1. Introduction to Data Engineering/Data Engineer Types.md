@@ -1,0 +1,7 @@
+| Aspect          | Data warehouse engineer                                | Data architect                                         | Data manager                               | Database administrator                  |
+|-----------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------|------------------------------------------|
+| **Focus**       | Data pipelines and warehousing                         | Data warehouses, big data systems, analytics platforms | Strategy and governance                    | Operational management                   |
+| **Key deliverables** | ETL pipelines, data transformation, and warehouse deployment | Scalable data management systems                       | Policies, standards, and compliance        | Reliable and secure database operations |
+| **Tools used**  | Apache Kafka, Spark, cloud data warehouses             | ERD tools, MySQL, MongoDB, cloud data platforms        | Data governance platforms                  | SQL, database monitoring tools           |
+| **Collaboration** | Works with Data Architects, DBAs, and BI Analysts     | Engages with engineers, DBAs, and business leaders     | Works with business and technical teams    | Partners with engineers and architects   |
+| **Importance**  | Supports data accessibility for analytics and reporting| Ensures scalable and adaptable data management         | Aligns data with business goals            | Maintains data reliability and security  |
